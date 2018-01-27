@@ -1,5 +1,5 @@
 Project Title:  Tropical Flooring Iventory Management System (TFIMS) - Simple, Beautiful, Powerful, 
-https://github.com/dsimmon1/theInventory.git
+https://theinventoryproject.herokuapp.com/
 
 TFIMS is a customized inventory management software for tracking inventory levels, orders, sales and deliveries for a hardwood flooring wholesale distributor. TFIMS was built with the specific needs of Tropical Flooring in mind. The major functionalities of TFIMS can be seen below: 
 	
@@ -22,7 +22,7 @@ Getting Started
 
 Deployment
 
-	Application is deployed on Heroku
+	https://theinventoryproject.herokuapp.com/
 
 Built With 
 
